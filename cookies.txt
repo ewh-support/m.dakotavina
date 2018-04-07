@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.enableds.com	TRUE	/	FALSE	1999999999	__cfduid	d8559f86988650c99025f4d1d577c2d711523068932
+www.enableds.com	TRUE	/	FALSE	1999999999	bp_user-role	guest
+www.enableds.com	TRUE	/	FALSE	1999999999	bp_user-registered	0
+
